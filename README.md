@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sa-23
 - 👀 I’m interested in learning hindi.
 - 🌱 I’m currently learning ..hindi.
-- 💞️ I’m looking to collaborate on hindi peoples.
+- 💞️ I’m looking to collaborate to the hindi peoples.
 - 📫 How to reach my goal?.
 
 <!---
