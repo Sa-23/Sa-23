@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandhya.
 - 👀 I’m interested in learning Data Science with Python ✔..
 - 🌱 I’m currently learning ..POWER BI.
-- 💞️ I’m looking to collaborate on Community startups..
+- 💞️ I’m looking to collaborate with Community startups..
 - 📫 I'm currently working on power BI.
 - ✨ At present i'm looking for help with Data science projects/ data analyst roles.
 - ✍ Ask me about Data Science.
